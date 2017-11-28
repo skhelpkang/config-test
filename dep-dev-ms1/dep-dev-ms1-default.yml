@@ -1,5 +1,4 @@
 # Config data exposed by config server
 
 info:
-  haha: hello world
-  aa: 하하하
+  name: hello
