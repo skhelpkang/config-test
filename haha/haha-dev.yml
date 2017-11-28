@@ -1,0 +1,4 @@
+# Config data exposed by config server
+
+info:
+  haha: hello world
