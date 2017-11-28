@@ -1,4 +1,4 @@
 # Config data exposed by config server
 
 info:
-  name: hello
+  name: Hello! This is sample.
